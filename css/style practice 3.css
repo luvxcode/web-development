@@ -1,0 +1,14 @@
+*{
+    font-family: Courier New;
+}
+h1{
+    color:#1b74e4
+}
+.a{
+    background-color: aqua;
+    color: black;
+}
+.b{
+    background-color: black;
+    color:white;
+}
